@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charaet="utf-8">
+<title>杨耀文的网页</title>
+
+</head>
+<body>
+
+<table width="1300" height="0"  border="0">
+<tr>
+<td colspan="2" style="background-color:#FFA500;">
+<h1>个人简历</h1>
+</td>
+</tr>
+
+<tr>
+	<td style="background-color:#FFD700;width:50px;height:500px;vertical-align:top;">
+		
+             <b>联系电话：15375164507 <br>
+		E-mail：429424273@qq.com <br>
+		微信：15375164507<br>
+			工作时长：16年<br>
+		  证书：c1驾照.消防建《构》筑证书<br>
+			</td>
+<td style="background-color:#eeeeee;height:200px;width:400px;vertical-align:top;">
+<b>姓名：杨耀文  性别：男</b> <br>
+     出生年月：1990.7  籍贯：安徽 <br>
+     年龄：34  血型：O 健康状况：健康 <br>
+     政治面貌：群众 民族：汉 <br>
+     联系地址：安徽省淮南市潘集区芦集镇庙后社区 <br>
+     学历：大专 专业：工商企业管理 <br>
+     教育背景：2006.9-2009.7 淮南交通职业学校 中专 <br>
+              2019.9-2022.7  民办万博科技职业学院  大专 <br>
+  工作经历：2010.8-2021.8 淮南日芯光伏科技有限公司 消防专员 <br>
+           2021.12-2023.5 自由海员   外贸水手 <br>
+              2023.6-2024.4 淮矿芬蕾内蒙古泊江海子选煤厂   岗位工 <br>
+     <p>自我评价：退役军人  执行力强 沉着冷静 敢于挑战<b>
+
+</tr>
+		 
+<tr>
+<td colspan="2" style="background-color:#FFA500;text-align:center;">
+版权    杨耀文<br>
+<a href="https://www.yaowen.com">我的网站</td>
+
+</tr>
+</table>
+ 
+</body>
+</html>
